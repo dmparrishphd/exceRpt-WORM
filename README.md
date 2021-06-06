@@ -1,2 +1,2 @@
 # exceRpt-WORM
-extract specific lines from text files
+[README](https://github.com/dmparrishphd/exceRpt#readme).
